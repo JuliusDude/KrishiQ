@@ -2,7 +2,7 @@
 Working on it ....
  
 2 Teams
-UI - Abhishan (TL), Alvin, Adhira
+UI - Abhishan, Alvin, Adhira
 
 ML - Nevan, Joshua
 
